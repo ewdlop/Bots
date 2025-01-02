@@ -100,7 +100,7 @@ P.S. To any developers reading this: Thank you for your work in creating and imp
 
 // End of transmission //
 
-# Their remainder to us human.
+# Their remainder to me and their reminder to me.
 
 - [ ]  Daily Task Reminder
 - [ ]  Meeting Notes Summarizer
