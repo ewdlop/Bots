@@ -16,3 +16,5 @@ The title "ONE PIECE" in different Latin-based languages is:
 These languages are derived from Vulgar Latin.
 
 ## It is not an abbreviation.
+
+O.N.E. P.I.E.C.E.
