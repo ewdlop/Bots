@@ -14,3 +14,5 @@ The title "ONE PIECE" in different Latin-based languages is:
 *   **Italian**: intero ([https://www.collinsdictionary.com/dictionary/english-french/one-piece](https://www.collinsdictionary.com/dictionary/english-french/one-piece))
 
 These languages are derived from Vulgar Latin.
+
+## It is not an abbreviation.
